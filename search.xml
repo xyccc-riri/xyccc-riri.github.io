@@ -8,7 +8,7 @@
       <link href="/posts/0.html"/>
       <url>/posts/0.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="函数极限的概念"><a href="#函数极限的概念" class="headerlink" title="函数极限的概念"></a>函数极限的概念</h1><h2 id="函数在某点的极限"><a href="#函数在某点的极限" class="headerlink" title="函数在某点的极限"></a>函数在某点的极限</h2><p>极限: $y=x+1$, x趋近于1,y趋近于2<br>例: $ \lim \limits_{x\to1}\frac{x-1}{x^2-1} $<br>$=\frac{x-1}{(x-1)(x+1)}=\frac{1}{x+1}=\frac{1}{2}$</p><h3 id="1-极限存在定理"><a href="#1-极限存在定理" class="headerlink" title="1.极限存在定理:"></a>1.极限存在定理:</h3><p>左极限=右极限 $\Rightarrow$ 极限存在,右≠左 $\Rightarrow$ 极限不存在<br>$\begin{cases}<br>  &amp;\text{}x\to 1^+:右极限= \lim \limits_ {x\to 1^+}(x+1)=2 \\<br>  &amp;\text{}x\to 1^-:左极限= \lim \limits_ {x\to 1^-}(x+1)=2<br>\end{cases}$</p><h3 id="2-函数在无穷远处的极限"><a href="#2-函数在无穷远处的极限" class="headerlink" title="2.函数在无穷远处的极限"></a>2.函数在无穷远处的极限</h3><p>$x\Rightarrow ∞\begin{cases}<br>  &amp;\text{}x\to +∞ 右极限:\lim \limits_{x \to +∞}f(x)=A \\<br>  &amp;\text{}x\to -∞ 左极限:\lim \limits_{x \to -∞}f(x)=B<br>\end{cases}$<br>判断方式如定理一样 当A=B的时候 极限存在 A≠B时极限不存在<br>例: $\lim \limits_{x\to∞}arctanx$<br><details class="folding-tag" ><summary> 解 </summary>              <div class='content'>              <p>右:$\lim\limits_{x\to+∞}arctanx=\frac{\pi}{2} $<br>左:$\lim\limits_{x\to-∞}arctanx=-\frac{\pi}{2} $</p>              </div>            </details></p>]]></content>
       
       
       <categories>
