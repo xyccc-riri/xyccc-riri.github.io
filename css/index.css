@@ -4440,7 +4440,7 @@ h1.page-title + .tag-cloud-list {
 span.mathjax-overflow {
   display: inline-block;
   padding: 0 2px;
-  max-width: 100%;
+  max-width: 120%;
   vertical-align: bottom;
 }
 .aplayer {
