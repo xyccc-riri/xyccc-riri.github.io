@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xyccc.wiki/posts/b7a3.html</loc>
+    
+    <lastmod>2022-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xyccc.wiki/posts/0.html</loc>
     
     <lastmod>2022-12-09</lastmod>
@@ -13,7 +22,7 @@
   <url>
     <loc>https://xyccc.wiki/posts/b7a3.html</loc>
     
-    <lastmod>2022-12-07</lastmod>
+    <lastmod>2022-12-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -104,14 +113,21 @@
   </url>
   
   <url>
-    <loc>https://xyccc.wiki/categories/%E9%AB%98%E6%95%B0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://xyccc.wiki/categories/%E6%96%87%E7%AB%A0%E7%BE%8E%E5%8C%96/</loc>
     <lastmod>2022-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xyccc.wiki/categories/%E6%96%87%E7%AB%A0%E7%BE%8E%E5%8C%96/</loc>
+    <loc>https://xyccc.wiki/categories/%E9%AB%98%E6%95%B0/</loc>
+    <lastmod>2022-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xyccc.wiki/categories/%E9%AB%98%E6%95%B0%E9%A2%98%E7%9B%AE/</loc>
     <lastmod>2022-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
