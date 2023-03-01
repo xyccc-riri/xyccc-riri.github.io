@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://xyccc.wiki/posts/0.html</loc>
+    <lastmod>2023-03-01</lastmod>
+  </url>
+  <url>
+    <loc>https://xyccc.wiki/posts/ae68.html</loc>
+    <lastmod>2022-12-26</lastmod>
+  </url>
+  <url>
     <loc>https://xyccc.wiki/posts/aa7d.html</loc>
     <lastmod>2022-12-24</lastmod>
   </url>
@@ -18,10 +26,6 @@
   </url>
   <url>
     <loc>https://xyccc.wiki/posts/b7a3.html</loc>
-    <lastmod>2022-12-24</lastmod>
-  </url>
-  <url>
-    <loc>https://xyccc.wiki/posts/ae68.html</loc>
     <lastmod>2022-12-24</lastmod>
   </url>
 </urlset> 
